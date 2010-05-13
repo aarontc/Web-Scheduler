@@ -1,0 +1,4 @@
+#TRASHBEGIN
+REJECT		loc		net		tcp		https
+REDIRECT	loc		81		tcp		http
+#TRASHEND
